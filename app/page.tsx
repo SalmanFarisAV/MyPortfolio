@@ -93,7 +93,7 @@ export default function Home() {
                 Let's Talk
               </a>
               <a 
-                href="/portfolio/salman_faris_resume.pdf" 
+                href="/MyPortfolio/salman_faris_resume.pdf" 
                 download="Salman_Faris_Resume.pdf"
                 target="_blank"
                 rel="noreferrer"

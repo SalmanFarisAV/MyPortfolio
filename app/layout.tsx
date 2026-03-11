@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 export const metadata: Metadata = {
   title: "Salman Faris A V | Software Development Engineer",
   description: "Portfolio of Salman Faris A V, Software Development Engineer specializing in Flutter & Web Development.",
-  manifest: "/portfolio/site.webmanifest",
+  manifest: "/MyPortfolio/site.webmanifest",
 };
 
 export default function RootLayout({

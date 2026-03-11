@@ -22,8 +22,8 @@ export default function ScrollVideoCanvas() {
     // Load images
     const images: HTMLImageElement[] = [];
     const airpods = { frame: 0 };
-    // Add basePath for GitHub Pages deployed to /portfolio (Applies to dev and prod)
-    const basePath = "/portfolio";
+    // Add basePath for GitHub Pages deployed to /MyPortfolio (Applies to dev and prod)
+    const basePath = "/MyPortfolio";
 
     for (let i = 1; i <= FRAME_COUNT; i++) {
       const img = new Image();
